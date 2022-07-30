@@ -1,8 +1,8 @@
-<p align="center"><img width="80%" alt="Hello, I'm Nayan." src="./assets/images/hello-nayan.png" /></a></p>
+<p align="center"><img width="70%" alt="Hello, I'm Nayan." src="./assets/images/hello-nayan.png" /></a></p>
 
 **About Me**
 
-- 💼 I'm starting out my journey as a full stack web developer!"
+- 💼 I'm starting out my journey as a full stack web developer!
 
 - ❤️
 
