@@ -32,8 +32,6 @@ I'm starting out my journey as a full stack web developer!
 
 <img alt="jQuery" src= "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
-<br>
-
 <img align="left" alt="JWT" src= "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 
 <img align="left" alt="NPM" src= "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
