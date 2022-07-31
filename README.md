@@ -2,7 +2,7 @@
 
 I'm starting out my journey as a full stack web developer!
 
-- My projects are available at https://nsharma-uk.github.io/professional-portfolio/
+- My projects are available [here](https://nsharma-uk.github.io/professional-portfolio/)
 
 - I am currently learning GraphQL, React and MongoDB
 - 💬 Ask me about coding and my projects [here](mailto:nsharma711@gmail.com)
@@ -30,7 +30,9 @@ I'm starting out my journey as a full stack web developer!
 
 <img align="left" alt="GraphQL" src= "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
-<img align="left" alt="jQuery" src= "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img alt="jQuery" src= "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+<br>
 
 <img align="left" alt="JWT" src= "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 
