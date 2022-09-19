@@ -4,7 +4,7 @@ I'm starting out my journey as a full stack web developer!
 
 - My projects are available [here](https://nsharma-uk.github.io/professional-portfolio/)
 
-- I am currently learning GraphQL, React and MongoDB
+- I am currently upskilling in GraphQL, React and MongoDB
 - 💬 Ask me about coding and my projects [here](mailto:nsharma711@gmail.com)
 
 | <a href="https://github.com/nsharma-uk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nsharma-uk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nayan's github stats" /></a> | <a href="https://github.com/nsharma-uk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsharma-uk&layout=compact&theme=buefy&hide_border=true" /></a> |
