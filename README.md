@@ -20,7 +20,7 @@ I'm a front-end web developer!
 
 ##### Frameworks, Platforms and Libraries
 
-<img alt="React" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React" align="left" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img align="left" alt="Apollo-GraphQL" src= "https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
 
@@ -40,7 +40,6 @@ I'm a front-end web developer!
 
 <img align="left" alt="NodeJS" src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img alt="React" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 ##### Databases and ORM
 
