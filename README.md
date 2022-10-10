@@ -1,10 +1,10 @@
 <p align="center"><img width="70%" alt="Hello, I'm Nayan." src="./assets/images/hello-nayan.png" /></a></p>
 
-I'm starting out my journey as a full stack web developer!
+I'm a front-end web developer!
 
 - My projects are available [here](https://nsharma-uk.github.io/professional-portfolio/)
 
-- I am currently upskilling in GraphQL, React and MongoDB
+- I am currently upskilling in React
 - 💬 Ask me about coding and my projects [here](mailto:nsharma711@gmail.com)
 
 | <a href="https://github.com/nsharma-uk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nsharma-uk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nayan's github stats" /></a> | <a href="https://github.com/nsharma-uk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsharma-uk&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -19,6 +19,8 @@ I'm starting out my journey as a full stack web developer!
 <img alt="JavaScript" src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ##### Frameworks, Platforms and Libraries
+
+<img alt="React" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img align="left" alt="Apollo-GraphQL" src= "https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
 
