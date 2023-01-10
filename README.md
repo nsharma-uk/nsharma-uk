@@ -30,8 +30,6 @@ I'm a front-end web developer!
 
 <img align="left" alt="Express.js" src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
-<img align="left" alt="GraphQL" src= "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-
 <img alt="jQuery" src= "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 <img align="left" alt="JWT" src= "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
